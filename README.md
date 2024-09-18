@@ -11,6 +11,6 @@ This project in collaboration with **Subash Neupane, (Claflin University, Orang
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 Project: https://campuspress.yale.edu/shrikantpawar/files/2024/04/Seed-Report-2023-d26fc72513e269e3.docx
 https://campuspress.yale.edu/shrikantpawar/files/2023/06/SIP-768x576.jpg
-https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
+https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA. https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
