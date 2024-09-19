@@ -14,3 +14,6 @@ https://campuspress.yale.edu/shrikantpawar/files/2023/06/SIP-768x576.jpg
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA. https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
+
+
+inceptionv3-keras-pawar.ipynb, intracranial-hemorrhage-pawar.ipynb, keras-efficientnet-pawar.ipynb: Computerized Tomography (CT) Brain Hemorrhage scan Data read, split, plotting, noise removal, ImageNet Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
