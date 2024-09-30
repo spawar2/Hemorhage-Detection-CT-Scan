@@ -7,7 +7,7 @@
 
 https://github.com/CoolSubash π​++.
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
-This project in collaboration with **Subash Neupane, (Claflin University, Orangeburg, South Carolina, USA Seed award funded project) Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion.
+This project in collaboration with **Subash Neupane+π, (Claflin University, Orangeburg, South Carolina, USA Seed award funded project) Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion.
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 Project: https://campuspress.yale.edu/shrikantpawar/files/2024/04/Seed-Report-2023-d26fc72513e269e3.docx
 https://campuspress.yale.edu/shrikantpawar/files/2023/06/SIP-768x576.jpg
@@ -20,3 +20,6 @@ inceptionv3-keras-pawar.ipynb, intracranial-hemorrhage-pawar.ipynb, keras-effici
 function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse).
+
+Programming language: + Python.
+π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
