@@ -4,7 +4,7 @@
 ![Claflin](https://github.com/spawar2/Hemorhage-Detection-CT-Scan/assets/25118302/0ff4e22f-b443-46a9-abde-421a1f92fc40)
 
 <img width="110" alt="Screenshot 2023-12-11 at 8 20 20 PM" src="https://github.com/spawar2/Hemorhage-Detection-CT-Scan/assets/25118302/f59eeb84-3d5c-458c-b772-4cccb87b9cda">
-
+Stroke Risk Stratification Using Neural Networks, Pawar, S., Publication: Springer Lecture Notes in Networks and Systems (March 27), Github Article link (Claflin University, Orangeburg, South Carolina, USA, Summer Seed Research Grant Funded)^^ [**2023:36]. DOI: https://doi.org/10.1007/978-981-99-8031-4_3, Issue, Volume: 812, Pages: pp 21–31.
 https://github.com/CoolSubash π​++.
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 This project in collaboration with **Subash Neupane+π, (Claflin University, Orangeburg, South Carolina, USA Seed award funded project) Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, United States of America (USA). (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion.
