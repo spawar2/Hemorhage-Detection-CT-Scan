@@ -23,3 +23,5 @@ selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
+
+Accuracy: 0.98.
