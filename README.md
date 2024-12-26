@@ -2,7 +2,8 @@
 [Python: numpy, pandas, pydicom, matplotlib.pyplot, math, cv2, tensorflow, keras].
 [Claflin University, Orangeburg, South Carolina, USA Summer Seed Research Grant (2023): Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusions: $10,000. Direct costs, Effort=100%, Pilot funding.](https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf) Github, Role: PI. Poster Link, [**33]. Co-PI/co-PI (Principal Investigator).
 ![Claflin](https://github.com/spawar2/Hemorhage-Detection-CT-Scan/assets/25118302/0ff4e22f-b443-46a9-abde-421a1f92fc40)
-
+(May 1, 2023- August 31, 2023).
+Award (Start date- End date).
 <img width="110" alt="Screenshot 2023-12-11 at 8 20 20 PM" src="https://github.com/spawar2/Hemorhage-Detection-CT-Scan/assets/25118302/f59eeb84-3d5c-458c-b772-4cccb87b9cda">
 Stroke Risk Stratification Using Neural Networks, Pawar, S., Publication: Springer Lecture Notes in Networks and Systems (March 27), Github Article link (Claflin University, Orangeburg, South Carolina, USA, Summer Seed Research Grant Funded)^^ [**2023:36]. DOI: https://doi.org/10.1007/978-981-99-8031-4_3, Issue, Volume: 812, Pages: pp 21–31.
 https://github.com/CoolSubash π​++.
