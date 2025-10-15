@@ -17,7 +17,7 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 A hemorrhage is bleeding from a damaged blood vessel. Many things can cause bleeding inside and outside of your body. Types of hemorrhages range from minor (like a bruise) to major (like bleeding in your brain).
 
-inceptionv3-keras-pawar.ipynb, intracranial-hemorrhage-pawar.ipynb, keras-efficientnet-pawar.ipynb: Computerized Tomography (CT) Brain Hemorrhage scan Data read, Test-Train Split, Neural, plotting, noise removal, ImageNet Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+inceptionv3-keras-pawar.ipynb, intracranial-hemorrhage-pawar.ipynb, keras-efficientnet-pawar.ipynb: Computerized Tomography (CT) Brain Hemorrhage scan Data read, Test-Train Split, Neural, plotting, noise removal, ImageNet Convolution Neural 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse).
